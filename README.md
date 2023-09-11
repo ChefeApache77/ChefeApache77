@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ChefeApache77
-- 👀 I’m interested in learn how to code
-- 🌱 I’m currently learning HTML and CSS
+- 👋 Hi, I’m @ChefeApache77, from Brazil
+- 👀 Always looking to improve
 - 📫 How to reach me: chefeapache77@gmail.com
 
 <!---
